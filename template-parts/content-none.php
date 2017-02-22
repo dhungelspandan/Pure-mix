@@ -6,6 +6,10 @@
  *
  * @package Pure-mix
  */
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1382622cce5ab13c1cb798f70c3e836c8dae9a9f
 ?>
 
 <section class="no-results not-found">
