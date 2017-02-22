@@ -6,7 +6,6 @@
  *
  * @package Pure-mix
  */
-
 ?>
 
 <section class="no-results not-found">
